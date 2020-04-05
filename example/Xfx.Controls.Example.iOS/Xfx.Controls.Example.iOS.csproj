@@ -111,10 +111,6 @@
       <Project>{6ed4280e-2175-47a9-a70b-3b0236a4d830}</Project>
       <Name>Xfx.Controls</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Xfx.Controls.Example\Xfx.Controls.Example.csproj">
-      <Name>Xfx.Controls.Example</Name>
-      <Project>{7D70FE1D-3DC8-477B-A0A9-5A6FFB598ECA}</Project>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default-568h%402x.png" />
